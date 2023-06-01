@@ -1,0 +1,115 @@
+[
+    {
+        "title": "about",
+        "links": [
+            {
+                "name": "About Allures",
+                "path": "/about"
+            },
+            {
+                "name": "Careers",
+                "path": "/"
+            },
+            {
+                "name": "Social Media",
+                "path": "/"
+            },
+            {
+                "name": "Affiliates",
+                "path": "/"
+            },
+            {
+                "name": "Supply Chain",
+                "path": "/"
+            },
+            {
+                "name": "Sitemap",
+                "path": "/"
+            },
+            {
+                "name": "Global Sites",
+                "path": "/"
+            }
+        ]
+    },
+    {
+        "title": "men's clothes",
+        "links": [
+            {
+                "name": "tops",
+                "path": "/"
+            },
+            {
+                "name": "pants",
+                "path": "/"
+            },
+            {
+                "name": "accessories",
+                "path": "/"
+            }
+        ]
+    },
+    {
+        "title": "women's clothes",
+        "links": [
+            {
+                "name": "tops",
+                "path": "/"
+            },
+            {
+                "name": "pants",
+                "path": "/"
+            },
+            {
+                "name": "dresses",
+                "path": "/"
+            },
+            {
+                "name": "accessories",
+                "path": "/"
+            }
+        ]
+    },
+    {
+        "title": "jewelry",
+        "links": [
+            {
+                "name": "necklaces",
+                "path": "/"
+            },
+            {
+                "name": "braclets",
+                "path": "/"
+            },
+            {
+                "name": "rings",
+                "path": "/"
+            },
+            {
+                "name": "other",
+                "path": "/"
+            }
+        ]
+    },
+    {
+        "title": "electronics",
+        "links": [
+            {
+                "name": "desktops",
+                "path": "/"
+            },
+            {
+                "name": "phones",
+                "path": "/"
+            },
+            {
+                "name": "storage",
+                "path": "/"
+            },
+            {
+                "name": "hard drives",
+                "path": "/"
+            }
+        ]
+    }
+]
