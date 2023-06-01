@@ -8,7 +8,7 @@ Aside from some freelance work, I’m currently seeking a full-time role. Do con
 
 ## Summary
 
-Allures is an (mock) ecommerce store build with the React ecosystem.
+Allures is an (mock) ecommerce store build primarily with React ecosystem tools.
 
 ## Sreenshots
 
@@ -19,30 +19,29 @@ Allures is an (mock) ecommerce store build with the React ecosystem.
 
 Some notable tools I used to build this site are as follows:
 
-- ReactJS (v18.2.0) using hooks (useContext, useReducer, useEffect, etc), custom hooks, react-router and more
-- Node v.16 (thats the version you should use if you install it)
-- Tailwind (UI library)
-- fakestoreapi.com (for the mock product data)
-- Axios (for fetch requests)
-- React-router-dom (for routing)
-- Prop-types
+-   ReactJS (v18.2.0) using hooks (useContext, useReducer, useEffect, etc), custom hooks, react-router and more
+-   Node v.16 (thats the version you should use if you install it)
+-   Tailwind (UI library)
+-   fakestoreapi.com (for the mock product data)
+-   Axios (for fetch requests)
+-   React-router-dom (for routing)
+-   Prop-types
 
 ## Features:
 
-- Product listing complete with filters for price and category
-- Product page with product details
-- Mobile-first design
-- Recommended Products
-- Utilizing 30+ components and pages with speedy loading
+-   Product listing complete with filters for price and category
+-   Product page with product details
+-   Mobile-first design
+-   Recommended Products
+-   Utilizing 30+ components and pages with speedy loading
 
 ## Future Feature List
 
-- [ ] Shopping cart
-- [ ] Favorites
-- [ ] User Authentication
-- [ ] Local storage (to store carts and favorites)
+-   [ ] Shopping cart
+-   [ ] Favorites
+-   [ ] User Authentication
+-   [ ] Local storage (to store carts and favorites)
 
 ## License / Copyright
 
 Feel free to copy any of the code for your own project.
-
