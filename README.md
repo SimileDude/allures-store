@@ -11,8 +11,9 @@ Aside from some freelance work, I’m currently seeking a full-time role. Do con
 Allures is an (mock) ecommerce store build with the React ecosystem.
 
 ## Sreenshots
-<img width="900" alt="homepage" src="https://github.com/SimileDude/allures-store/assets/22677312/c6ffdf2c-ed8c-48d3-8d26-9781626f2d02">
-<img width="900" alt="productPage" src="https://github.com/SimileDude/allures-store/assets/22677312/a341d6dc-534d-4995-81cb-45fba2c919aa">
+
+<img width="850" alt="homepage" src="https://github.com/SimileDude/allures-store/assets/22677312/9710dcc5-e9ee-4992-93a4-1958d0045447">
+<img width="850" alt="productPage" src="https://github.com/SimileDude/allures-store/assets/22677312/a13fedac-b1fc-4672-944f-3f4b74d774e6">
 
 ## Tools
 
